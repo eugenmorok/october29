@@ -8,6 +8,7 @@ public class AbsoluteValue {
         int number = scan.nextInt();
         if (number < 0) number = -1 * number;
         System.out.println("Your abs number is: " + number);
+        System.out.println("The end");
     }
 
 }

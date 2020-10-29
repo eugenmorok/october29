@@ -1,0 +1,2 @@
+public class EqualDigitsOf3 {
+}
