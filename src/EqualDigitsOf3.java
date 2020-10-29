@@ -10,7 +10,7 @@ public class EqualDigitsOf3 {
         int u3 = inNum % 10;
 
         if (u1 == u2 | u1 == u3 | u2 == u3) System.out.println("our number has the equal digits");
-        else System.out.println(("our number has't the equal digits"));
+        else System.out.println("our number has't the equal digits");
         System.out.println("the end");
     }
 }
