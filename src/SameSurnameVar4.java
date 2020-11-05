@@ -230,6 +230,8 @@ public class SameSurnameVar4 {
             case (31):
                 System.out.println("the name match");
                 break;
+            case (22):
+                System.out.println("too many chars:("); //more any options are possible here
         }
 
         //System.out.println(names);
